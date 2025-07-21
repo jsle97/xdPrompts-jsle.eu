@@ -2,7 +2,7 @@
 
 **671 production-ready prompts** engineered with advanced prompt design patterns.
 
-⭐ **Star if you find these useful**
+
 
 ## What's Inside
 - **Structured Prompts**: Each follows consistent architecture (ROLE, TASKS, PARAMETERS, STATE MANAGEMENT, BOUNDARIES)
@@ -31,6 +31,9 @@ Generated using proprietary meta-prompt engineering system (by gemini-2.5-flash-
 For custom prompt development or consultation:
 - Web: https://jsle.eu
 - Email: jakub@jsle.eu
+
+⭐ **Star if you find these useful**
+or/and https://ko-fi.com/jsle97
 
 ## License
 CC BY-NC 4.0 License - See LICENSE file
