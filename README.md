@@ -29,7 +29,7 @@ Each prompt is self-contained and includes usage instructions. Copy, adapt, and 
 ## Note
 Generated using proprietary meta-prompt engineering system (by gemini-2.5-flash-lite, under 20 minutes all of them)
 For custom prompt development or consultation:
-- Web: jsle.eu
+- Web: https://jsle.eu
 - Email: jakub@jsle.eu
 
 ## License
